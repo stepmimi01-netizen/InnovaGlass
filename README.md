@@ -1,6 +1,6 @@
 # 🌟 InnovaGlass
 
-**Interactive Virtual Lightboard Studio powering Al-Mutawasit Plus educational content.**
+**Interactive Virtual Lightboard Studio powering Al-mtust Plus educational content.**
 
 ---
 
