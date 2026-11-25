@@ -18,4 +18,7 @@ Built to scale high-quality educational videos for intermediate curricula, **Inn
 
 ---
 *Powered by Al-Mutawasit Plus & InnovaGlass Engine.*
+ Legal & Trademarks
+
+This project is proprietary to **Almtust plus (المتوسط بلس)** and `stepmimi01-netizen`. All rights reserved — see [LICENSE](./LICENSE) for source code terms and [TRADEMARKS.md](./TRADEMARKS.md) for brand identity, logos, and educational content usage rules.
 
